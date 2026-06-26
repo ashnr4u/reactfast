@@ -74,8 +74,9 @@ react-fastapi-crud/
 
 Create a virtual environment and install dependencies.
 
+
 ```bash
-pip install fastapi uvicorn
+pip install -r requirements.txt
 ```
 
 Run the server.
